@@ -34,4 +34,4 @@ I work on data cleaning, SQL, ETL pipelines, and API data collection — buildin
 
 **📫 Reach me**
 
-[LinkedIn](https://www.linkedin.com/in/ahmed-shahaat) · ahmedshahaat48@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ahmed-shahaat-4a6b50299) · ahmedshahaat48@gmail.com
